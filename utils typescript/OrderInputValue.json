@@ -1,0 +1,20 @@
+[{
+     "username" : "randyorden@gmail.com",
+     "password" : "Mallika@123",
+    "productName" : "ZARA COAT 3",
+    "CountryCode" : "ind", 
+    "CountryName" : "India",
+    "confirmationText" : " Thankyou for the order. "
+
+  
+},
+
+{
+      "username" : "randyorden@gmail.com",
+     "password" : "Mallika@123",
+    "productName" : "ADIDAS ORIGINAL",
+    "CountryCode" : "can", 
+    "CountryName" : "Canada",
+    "confirmationText" : " Thankyou for the order. "
+
+}]
